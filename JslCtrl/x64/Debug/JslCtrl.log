@@ -1,0 +1,20 @@
+﻿  QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly.
+  Moc'ing interface.h...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of moc_DebugMode.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_DebugMode.cpp, GeneratedFiles\Release\moc_DebugMode.cpp.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of moc_interface.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_interface.cpp, GeneratedFiles\Release\moc_interface.cpp.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of moc_IOLabel.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_IOLabel.cpp, GeneratedFiles\Release\moc_IOLabel.cpp.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of moc_jslCtrl.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_jslCtrl.cpp, GeneratedFiles\Release\moc_jslCtrl.cpp.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of moc_leisaimotion.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_leisaimotion.cpp, GeneratedFiles\Release\moc_leisaimotion.cpp.
+  DebugMode.cpp
+  moc_interface.cpp
+  moc_jslCtrl.cpp
+  moc_leisaimotion.cpp
+  moc_interface.cpp
+  moc_jslCtrl.cpp
+  moc_leisaimotion.cpp
+  JslCtrl.cpp
+  interface.cpp
+  leisaimotion.cpp
+  main.cpp
+  JslCtrl.vcxproj -> E:\GitHub\JslCtrl\x64\Debug\JslCtrl.exe
+  JslCtrl.vcxproj -> E:\GitHub\JslCtrl\x64\Debug\JslCtrl.pdb (Full PDB)

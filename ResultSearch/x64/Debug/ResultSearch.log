@@ -1,0 +1,9 @@
+﻿  QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly.
+  Moc'ing ResultSearch.h...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of moc_ResultSearch.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_ResultSearch.cpp, GeneratedFiles\Release\moc_ResultSearch.cpp.
+  moc_ResultSearch.cpp
+  moc_ResultSearch.cpp
+  main.cpp
+  ResultSearch.cpp
+E:\GitHub\JslCtrl\ResultSearch\GeneratedFiles\Debug\moc_ResultSearch.cpp : fatal error C1083: 无法打开编译器生成的文件: “E:\GitHub\JslCtrl\ResultSearch\x64\Debug\moc_ResultSearch.obj”: Permission denied
+cl : 命令行 error D8040: 创建子进程或与子进程通讯时出错

@@ -1,0 +1,6 @@
+﻿  QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly.
+  Moc'ing ResultSearch.h...
+  moc_ResultSearch.cpp
+  ResultSearch.cpp
+  main.cpp
+  ResultSearch.vcxproj -> E:\GitHub\JslCtrl\Win32\Release\ResultSearch.exe
